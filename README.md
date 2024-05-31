@@ -2,7 +2,7 @@
 
 ![GitHub Banner](https://github.com/hoangxuan912/hxuan190/blob/main/images/header_1.png)
 
-I am a passionate Software Engineer with expertise in AWS, Docker, Golang, C#, JavaScript, Git, GitHub, SQL Server, MySQL, Redis, and MongoDB. I love solving complex problems, building scalable solutions, and learning new technologies.
+I am a passionate Software Engineer with expertise in AWS, Docker, Golang, C#. I love solving complex problems, building scalable solutions, and learning new technologies.
 
 ## 🚀 About Me
 
