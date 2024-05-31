@@ -24,6 +24,7 @@ I am a passionate Software Engineer with expertise in AWS, Docker, Golang, C#. I
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-269539?style=for-the-badge&logo=nginx&logoColor=white)
 ## 🔧 Tools & Technologies
 
 - **Cloud Platforms**: AWS
@@ -31,6 +32,7 @@ I am a passionate Software Engineer with expertise in AWS, Docker, Golang, C#. I
 - **Programming Languages**: Golang, C#, JavaScript
 - **Databases**: SQL Server, MySQL, Redis
 - **CI/CD**: GitHub Actions
+- **Web Servers**: Nginx
 - **Version Control**: Git, GitHub, GitLab
 
 ## 📈 GitHub Stats
