@@ -46,7 +46,7 @@ I am a passionate Software Engineer with expertise in AWS, Docker, Golang, C#, J
 - Email: [hxuan190@gmail.com](mailto:hxuan190@gmail.com)
 
 ## 📝 Latest Blog Posts
-
+<!--
 <!-- BLOG-POST-LIST:START -->
 - [How to Build Scalable Microservices with Golang and Docker](https://yourblog.com/scalable-microservices-golang-docker)
 - [AWS for Beginners: A Comprehensive Guide](https://yourblog.com/aws-for-beginners)
@@ -72,5 +72,5 @@ I am a passionate Software Engineer with expertise in AWS, Docker, Golang, C#, J
 - 🎤 [Talks & Conferences](https://yourtalks.com)
 
 ---
-
+-->
 *Crafted with ❤️ by [Mai Hoang Xuan](https://github.com/hoangxuan912)*
