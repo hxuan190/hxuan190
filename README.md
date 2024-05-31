@@ -42,8 +42,8 @@ I am a passionate Software Engineer with expertise in AWS, Docker, Golang, C#, J
 
 ## 📫 Contact Me
 
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/yourprofile/)
-- Email: [your.email@example.com](mailto:your.email@example.com)
+- LinkedIn: [Your LinkedIn]([https://www.linkedin.com/in/yourprofile/](https://www.linkedin.com/in/hxuan190/))
+- Email: [hxuan190@gmail.com](mailto:hxuan190@gmail.com)
 
 ## 📝 Latest Blog Posts
 
@@ -73,4 +73,4 @@ I am a passionate Software Engineer with expertise in AWS, Docker, Golang, C#, J
 
 ---
 
-*Crafted with ❤️ by [Mai Hoang Xuan](https://github.com/yourusername)*
+*Crafted with ❤️ by [Mai Hoang Xuan](https://github.com/hoangxuan912)*
