@@ -36,8 +36,8 @@ I am a passionate Software Engineer with expertise in AWS, Docker, Golang, C#, J
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=hoangxuan912&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hoangxuan912&layout=compact&theme=radical)
 
 ## 📫 Contact Me
 
