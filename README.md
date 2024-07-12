@@ -31,8 +31,6 @@ I am a passionate Software Engineer with expertise in AWS, Docker, Golang, C#. I
 - **Containerization**: Docker
 - **Programming Languages**: Golang, C#, JavaScript
 - **Databases**: SQL Server, MySQL, Redis
-- **CI/CD**: GitHub Actions
-- **Web Servers**: Nginx
 - **Version Control**: Git, GitHub, GitLab
 
 ## 📈 GitHub Stats
