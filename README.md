@@ -18,9 +18,6 @@ I'm a Hoang Xuan, Software Developer focusing on Golang. <img src="https://media
 ### Github stats
 
 <img  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=hxuan190&show_icons=true&theme=tokyonight&icon_color=6392DF&hide=prs" alt="hxuan190">
-## 📈 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=hxuan190&show_icons=true&theme=tokyonight&icon_color=6392DF&hide=prs")
 
 ## 📫 Contact Me
 
