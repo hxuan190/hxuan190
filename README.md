@@ -1,42 +1,26 @@
-# Hi there, I'm Xuan! 👋
-
 ![GitHub Banner](https://github.com/halfrost/halfrost/blob/master/icons/header_white_.png)
 
-I am a passionate Software Engineer with expertise in AWS, Docker, Golang, C#. I love solving complex problems, building scalable solutions, and learning new technologies.
+I'm a Hoang Xuan, Software Developer focusing on Golang. <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
+<br />
+<h3>🚀 Some Tools I Use</h3>
+<p align="left">
+<img src="https://cdn.svgporn.com/logos/go.svg" alt="go" width="25" height="25" />
+<img src="https://cdn.svgporn.com/logos/docker-icon.svg" alt="Docker" width="25" height="25" />
+<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="25" height="25" />
+<img src="https://cdn.svgporn.com/logos/mysql.svg" alt="mysql" width="25" height="25" />
+<img src="https://cdn.svgporn.com/logos/prometheus.svg" alt="prometheus" width="25" height="25" />
+<img src="https://cdn.svgporn.com/logos/grafana.svg" alt="grafana" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" alt="aws" width="25" height="25" />
+</p>
 
-## 🚀 About Me
+### Github stats
 
-- 🌐 I specialize in cloud computing with AWS.
-- 🛠️ Proficient in containerization using Docker.
-- 💻 Experienced in developing backend systems with Golang, C#, and JavaScript.
-- 🗄️ Skilled in working with various databases including SQL Server, MySQL, and Redis.
-- 📚 Always eager to learn and adopt new technologies.
-
-## 🛠️ Skills
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-269539?style=for-the-badge&logo=nginx&logoColor=white)
-## 🔧 Tools & Technologies
-
-- **Cloud Platforms**: AWS
-- **Containerization**: Docker
-- **Programming Languages**: Golang, C#, JavaScript
-- **Databases**: SQL Server, MySQL, Redis
-- **Version Control**: Git, GitHub
-
+<img  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=hxuan190&show_icons=true&theme=tokyonight&icon_color=6392DF&hide=prs" alt="hxuan190">
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=hxuan190&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hxuan190&layout=compact&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=hxuan190&show_icons=true&theme=tokyonight&icon_color=6392DF&hide=prs")
 
 ## 📫 Contact Me
 
