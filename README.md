@@ -1,4 +1,4 @@
-![GitHub Banner](https://github.com/halfrost/halfrost/blob/master/icons/header_white_.png)
+![GitHub Banner](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 
 I'm a Hoang Xuan, Software Developer focusing on Golang. <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
 <br />
