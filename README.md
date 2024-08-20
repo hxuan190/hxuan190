@@ -1,6 +1,6 @@
 # Hi there, I'm Xuan! 👋
 
-![GitHub Banner](https://github.com/hoangxuan912/hxuan190/blob/main/images/header_1.png)
+![GitHub Banner](https://github.com/halfrost/halfrost/blob/master/icons/header_white_.png)
 
 I am a passionate Software Engineer with expertise in AWS, Docker, Golang, C#. I love solving complex problems, building scalable solutions, and learning new technologies.
 
