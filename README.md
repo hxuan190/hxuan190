@@ -1,5 +1,4 @@
-![GitHub Banner](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
-![👋 Hi, my name is Mai Hoang Xuan](https://static.wixstatic.com/media/53fad0_ce0704caa0174d6aa9b2b8101a62fa77~mv2.gif)
+![👋 Hi, my name is Mai Hoang Xuan](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 
 ![Profile views](https://komarev.com/ghpvc/?username=hxuan190&label=Profile%20views&color=0e75b6&style=flat)
 
