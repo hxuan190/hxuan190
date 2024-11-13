@@ -12,10 +12,8 @@
   </ul>
 </div>
 
-**<h3 align="left">Connect with me:</h3>** 
-<p align="left"><a href="https://github.com/https://github.com/hxuan190" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=plastic&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/hxuan190/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.facebook.com/https://www.facebook.com/xuanhoang912" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=plastic&logo=facebook&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="hxuan190@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
- **<h3 align="left">🌟 Software Developer | Backend with Go/NodeJS | Frontend with React 🌟</h3>**
+ **<h3 align="left">Software Engineer (Backend-Oriented)</h3>**
 
 **<h3 align="left">Rapid Fire</h3>**
 
