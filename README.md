@@ -17,8 +17,7 @@
 
 **<h3 align="left">Rapid Fire</h3>**
 
-- 💼 I'm currently working on: **💻 Developing CMS, LMS, and blogging platforms using GO & NodeJS**
-- 🌱 I'm currently learning: **📚 Exploring Front end technologies & Devops fundamental**
+- 🌱 I'm currently learning: **📚 Exploring Devops fundamental**
 - 💬 Ask me about: **💡 Golang, TypeScript, React, Node.js, Mysql, Docker, K8s, Redis, AWS, RESTful APIs & gRPC**
 - 📝 Blog: **<a href="https://200lab.io/blog/amazon-s3-la-gi/" target="_blank">https://200lab.io/blog/amazon-s3-la-gi/</a>**
 
